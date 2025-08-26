@@ -1,0 +1,3 @@
+Hello, I am MOhith
+I am learning how to write into files using Python.
+cool!!
